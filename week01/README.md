@@ -50,16 +50,6 @@
 
 ## VirtualBox Installation
 ![VirtualBox Installation](screenshots/VIRTUALBXINSTLL.png)
-
-## GitHub Account
-![GitHub Account](accounts/GITHUBACC.png)
-
-## LinkedIn Account
-![LinkedIn Account](accounts/LINKEDIN.png)
-
-## LinkedIn Profile
-![LinkedIn Profile](accounts/LINKEDINPROFILE.png)
-
 --- 
 
 # Challenges Encountered
