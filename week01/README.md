@@ -39,17 +39,13 @@
 
 # Installation Screenshots
 
-## Git Installation
-![Git Installation](screenshots/GITBASHINSTL.png)
+(screenshots/GITBASHINSTL.png)
 
-## GitHub Desktop Installation
-![GitHub Desktop Installation](screenshots/GITHBDSKTOPINSTLL.png)
+(screenshots/GITHBDSKTOPINSTLL.png)
 
-## Visual Studio Code Installation
-![Visual Studio Code Installation](screenshots/VSCDEINSTL.png)
+(screenshots/VSCDEINSTL.png)
 
-## VirtualBox Installation
-![VirtualBox Installation](screenshots/VIRTUALBXINSTLL.png)
+(screenshots/![alt text](image.png))
 --- 
 
 # Challenges Encountered
