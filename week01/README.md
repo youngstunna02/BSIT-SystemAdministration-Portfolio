@@ -38,12 +38,29 @@
 ---
 
 # Installation Screenshots
-(screenshots/GITBASHINSTL.png)
-(screenshots/GITHBDSKTOPINSTLL.png)
-(screenshots/VSCDEINSTL.png)
-(screenshots/VIRTUALBXINSTLL.png)
 
----
+## Git Installation
+![Git Installation](screenshots/GITBASHINSTL.png)
+
+## GitHub Desktop Installation
+![GitHub Desktop Installation](screenshots/GITHBDSKTOPINSTLL.png)
+
+## Visual Studio Code Installation
+![Visual Studio Code Installation](screenshots/VSCDEINSTL.png)
+
+## VirtualBox Installation
+![VirtualBox Installation](screenshots/VIRTUALBXINSTLL.png)
+
+## GitHub Account
+![GitHub Account](accounts/GITHUBACC.png)
+
+## LinkedIn Account
+![LinkedIn Account](accounts/LINKEDIN.png)
+
+## LinkedIn Profile
+![LinkedIn Profile](accounts/LINKEDINPROFILE.png)
+
+--- 
 
 # Challenges Encountered
 
