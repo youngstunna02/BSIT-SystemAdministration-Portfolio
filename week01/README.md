@@ -38,18 +38,10 @@
 ---
 
 # Installation Screenshots
-
-## Git Installation
-![Git Installation](screenshots/GITBASHINSTL.png)
-
-## GitHub Desktop Installation
-![GitHub Desktop Installation](screenshots/GITHBDSKTOPINSTLL.png)
-
-## Visual Studio Code Installation
-![Visual Studio Code Installation](screenshots/VSCDEINSTL.png)
-
-## VirtualBox Installation
-![VirtualBox Installation](screenshots/VIRTUALBXINSTLL.png)
+(screenshots/GITBASHINSTL.png)
+(screenshots/GITHBDSKTOPINSTLL.png)
+(screenshots/VSCDEINSTL.png)
+(screenshots/VIRTUALBXINSTLL.png)
 
 ---
 
