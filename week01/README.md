@@ -49,6 +49,12 @@
 ## VirtualBox Installation
 ![VirtualBox Installation](screenshoots/VIRTUALBXINSTLL.png)
 
+## Ubuntu Server ISO Download
+![VirtualBox Installation](screenshoots/UBUNTUISO.png)
+
+## Windows 11 Enterprise Evaluation ISO Download
+![VirtualBox Installation](screenshoots/WINDOWSENTREP.png)
+
 --- 
 
 # Challenges Encountered
