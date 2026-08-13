@@ -122,7 +122,7 @@ The selected software provides operating systems, productivity applications, dev
 
 The network topology was designed using Draw.io and represents the logical connection between the Internet, ISP modem, router, firewall, managed switch, server, printer, wireless access points, and the four company departments.
 
-![Enterprise Network Topology](diagrams/Enterprise-Network-Topology.png)
+![Enterprise Network Topology](diagrams/Enterprise-Network-Topology.drawioaaa.png)
 
 **Diagram Title:** Enterprise Network Topology – ABC Startup Solutions  
 **Prepared by:** Benedict James A. Gellido  
